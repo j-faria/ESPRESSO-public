@@ -1,4 +1,4 @@
-# ESPRESSO-public
+# ESPRESSO
 
 ```python
 from ESPRESSO import planets
